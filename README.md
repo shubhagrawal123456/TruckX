@@ -2,18 +2,17 @@
 <h3>First Install the project in your PC.</h3>
 
 <h3>Run these commands</h3>
-npm i install
-npm start
+npm i npm start
  
-
 <h3>Sign-In Using Following Credentials </h3> 
  email: eve.holt@reqres.in
  password: cityslicka
  
-#Screen-Shot of Login-in Page.
+Screen-Shot of Login-in Page.
 ![Login](https://user-images.githubusercontent.com/49271775/114295343-4b254a00-9ac2-11eb-9c0d-b8bc751e2811.png)
 
-#After Login As it fetchs the authToken from Api it get matches and store the Token in Local-Store Can be Seen In My Console.
+After Login As it fetchs the authToken from Api it get matches and store the Token in Local-Store Can be Seen In My Console.
+(In this assignment, I have implemented methods to save tokens with localStorage. So you need to clear your browser cookies, after first time Login to check action of Login component again).
 
 ![After Signing In Produces Tokens from Api](https://user-images.githubusercontent.com/49271775/114295559-a441ad80-9ac3-11eb-8196-5c2b5959ae89.png)
 
