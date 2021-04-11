@@ -17,7 +17,7 @@ npm start
 ![After Signing In Produces Tokens from Api](https://user-images.githubusercontent.com/49271775/114295559-a441ad80-9ac3-11eb-8196-5c2b5959ae89.png)
 
 <h3>Other Fuctionalites are :-</h3>
-<div>
+
 <h4> 1) Customer page</h4>
 ![Customer Data](https://user-images.githubusercontent.com/49271775/114295561-a9066180-9ac3-11eb-9fb0-4db1d64dbb29.png)
 <h4>2) Adding New-Data. </h4> 
@@ -27,7 +27,7 @@ npm start
 
 <h4>4) Deleteing the Data.</h4>
 ![After Deleting a data](https://user-images.githubusercontent.com/49271775/114295557-a0ae2680-9ac3-11eb-8831-6f28311cb6af.png)
-</div>
+
 <h2> My Visual Studio Code Folder Structure<h2>
  ![Folder Structure (2)](https://user-images.githubusercontent.com/49271775/114296159-38f9da80-9ac7-11eb-9c39-5829c5d852f0.png)
 
