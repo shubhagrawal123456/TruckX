@@ -5,8 +5,8 @@
 npm i npm start
  
 <h3>Sign-In Using Following Credentials </h3> 
- email: eve.holt@reqres.in
- password: cityslicka
+ Email: eve.holt@reqres.in
+ Password: cityslicka
  
 Screen-Shot of Login-in Page.
 ![Login](https://user-images.githubusercontent.com/49271775/114295343-4b254a00-9ac2-11eb-9c0d-b8bc751e2811.png)
@@ -28,7 +28,7 @@ After Login As it fetchs the authToken from Api it get matches and store the Tok
 4) Deleteing the Data.
 ![After Deleting a data](https://user-images.githubusercontent.com/49271775/114295557-a0ae2680-9ac3-11eb-8831-6f28311cb6af.png)
 
-<h3> My Visual Studio Code Folder Structure</h3>
+ My Visual Studio Code Folder Structure
 ![Folder Structure (2)](https://user-images.githubusercontent.com/49271775/114296210-a279e900-9ac7-11eb-91b4-984c8aea9226.png)
 
 
