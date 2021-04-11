@@ -24,11 +24,15 @@ After Login As it fetchs the authToken from Api it get matches and store the Tok
 ![Adding New Data](https://user-images.githubusercontent.com/49271775/114295551-8e33ed00-9ac3-11eb-8ccd-064fd15a4519.png)
 3) After Adding New Data Customer Page Look Like This.
 ![After Adding of New Data](https://user-images.githubusercontent.com/49271775/114295555-9be97280-9ac3-11eb-82ad-302101b19ed7.png)
+4) Edit The User
+ ![Edit](https://user-images.githubusercontent.com/49271775/114296853-1669c080-9acb-11eb-9323-5ae62c54e5be.png) 
+5) Delete Confirmation Alert
+![Delete Confirmation](https://user-images.githubusercontent.com/49271775/114296882-3305f880-9acb-11eb-8ed6-db608c460ee2.png)
 
-4) Deleteing the Data.
+6) Deleteing the Data.
 ![After Deleting a data](https://user-images.githubusercontent.com/49271775/114295557-a0ae2680-9ac3-11eb-8831-6f28311cb6af.png)
 
-5)My Visual Studio Code Folder Structure
+7)My Visual Studio Code Folder Structure
  
 ![Folder Structure (2)](https://user-images.githubusercontent.com/49271775/114296210-a279e900-9ac7-11eb-91b4-984c8aea9226.png)
 
