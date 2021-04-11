@@ -10,10 +10,11 @@ npm start
  email: eve.holt@reqres.in
  password: cityslicka
  
-<h3>Screen-Shot of Login-in Page.</h3>
+#Screen-Shot of Login-in Page.
 ![Login](https://user-images.githubusercontent.com/49271775/114295343-4b254a00-9ac2-11eb-9c0d-b8bc751e2811.png)
 
-<h3>After Login As it fetchs the authToken from Api it get matches and store the Token in Local-Store Can be Seen In My Console</h3>
+#After Login As it fetchs the authToken from Api it get matches and store the Token in Local-Store Can be Seen In My Console.
+
 ![After Signing In Produces Tokens from Api](https://user-images.githubusercontent.com/49271775/114295559-a441ad80-9ac3-11eb-8196-5c2b5959ae89.png)
 
 <h3>Other Fuctionalites are :-</h3>
